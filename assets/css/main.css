@@ -1,0 +1,62 @@
+.mainpages{
+    background-color: #f8f9fa;
+    padding-top: 9.5rem;
+    padding-bottom: 5rem;
+    font-family: "Newsreader"
+}
+.bg-gradient-primary-to-secondary{
+    background:linear-gradient(45deg, #2937f0, #9f1ae2);
+}
+.justify-content-center{
+    justify-content: center;
+}
+.col-xl-8{
+    flex: 0 0 auto;
+    width: 66.66666667%;
+}
+#features{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: #f8f9fa;
+}
+.device-wrapper{
+
+}
+.masthead-device-mockup{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.svg-font{
+    font-size: 4rem;
+}
+.cta{
+    position: relative;
+    padding: 15rem 0;
+    background-image: url(https://source.unsplash.com/5g41N3uRPf8/1500x800);
+    background-position: center;
+    background-size: cover;
+}
+.app-badge-gp{
+    width: 100%;
+}
+.app-badge-apstr{
+    width: 180%;
+}
+.nvbrsd{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+.iphne-img{
+    display: flex;
+}
+/* .masthead-device-mockup{
+    display: flex;
+    position: relative;
+    left: 23%;
+    bottom:30rem;
+} */
