@@ -2,6 +2,7 @@
     background-color: #f8f9fa;
     padding-top: 9.5rem;
     padding-bottom: 5rem;
+    z-index: 1;
     font-family: "Newsreader"
 }
 .bg-gradient-primary-to-secondary{
@@ -18,9 +19,6 @@
     padding-top: 5rem;
     padding-bottom: 5rem;
     background-color: #f8f9fa;
-}
-.device-wrapper{
-
 }
 .masthead-device-mockup{
     display: flex;
@@ -45,18 +43,10 @@
     width: 180%;
 }
 .nvbrsd{
-    position: fixed;
+    position: sticky;
     top: 0;
-    right: 0;
-    left: 0;
-    z-index: 1030;
+    z-index: 5;
 }
 .iphne-img{
     display: flex;
 }
-/* .masthead-device-mockup{
-    display: flex;
-    position: relative;
-    left: 23%;
-    bottom:30rem;
-} */
